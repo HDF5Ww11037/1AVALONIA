@@ -71,3 +71,4 @@ C:\Users\alexa\RiderProjects\AVALONIA_CHMO\AVALONIA_CHMO\obj\Debug\net9.0\refint
 C:\Users\alexa\RiderProjects\AVALONIA_CHMO\AVALONIA_CHMO\obj\Debug\net9.0\AVALONIA_CHMO.pdb
 C:\Users\alexa\RiderProjects\AVALONIA_CHMO\AVALONIA_CHMO\obj\Debug\net9.0\AVALONIA_CHMO.genruntimeconfig.cache
 C:\Users\alexa\RiderProjects\AVALONIA_CHMO\AVALONIA_CHMO\obj\Debug\net9.0\ref\AVALONIA_CHMO.dll
+C:\Users\alexa\RiderProjects\AVALONIA_CHMO\AVALONIA_CHMO\obj\Debug\net9.0\AVALONIA_CHMO.sourcelink.json

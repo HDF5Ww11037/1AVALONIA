@@ -9,9 +9,10 @@
         CanResize="False"
         Title="Котлярова Саша xd">
         <StackPanel> 
-                <TextBlock FontSize="30" HorizontalAlignment="Center" Text="GAVNO"/>
-                <TextBlock Name="Zet" IsVisible="False" FontSize="30" HorizontalAlignment="Center" Text="GAVNO"/>
-                <Button Click="Button_OnClick" Content="Hhhhuhjkl" HorizontalAlignment="Center"/>
-                <Button Click="Button_OnClick_Close" Content="587459" HorizontalAlignment="Center"/>
+                <TextBlock FontSize="30" HorizontalAlignment="Center" Text="Котлярова Саша:)"/>
+                <TextBlock FontSize="27" HorizontalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" Text="Я учусь в 8 классе, мне 15, живу хорошо"/>
+                <TextBlock Name="Zet" IsVisible="False" FontSize="24" TextAlignment="Center" HorizontalAlignment="Center" TextWrapping="Wrap" Text="За один вечер при установки райдера и плагинов, я слетала в Швецию больше 10 раз"/>
+                <Button Click="Button_OnClick" FontSize="20" Content="ИНТЕРЕСНЫЙ ФАКТ" HorizontalAlignment="Center"/>
+                <Button Click="Button_OnClick_Close" FontSize="18" Content="Закрыть" HorizontalAlignment="Center"/>
         </StackPanel>
 </Window>
