@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="AVALONIA_CHMO/MainWindow.axaml" value="AVALONIA_CHMO/AVALONIA_CHMO.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
